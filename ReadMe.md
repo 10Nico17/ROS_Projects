@@ -40,6 +40,6 @@ https://bitbucket.org/theconstructcore/spawn_robot_tools/src/master/
 # Gazebo simulation:
 ![BB8](Basics_Topics_Server_Actions_Gazebo_Simulation/bb8.png)
 ![iri_warm](Basics_Topics_Server_Actions_Gazebo_Simulation/iri_wam.png)
-![drone](Basics_Topics_Server_Actions_Gazebo_Simulation/iri_wam.png)
+![drone](Basics_Topics_Server_Actions_Gazebo_Simulation/drone.png)
 ![shadow_robot](Basics_Topics_Server_Actions_Gazebo_Simulation/shadow_robot_smart_grasping_sandbox.png)
 
