@@ -1,8 +1,3 @@
-# ROS_Projects
-
-
-ROS Basics:
-
 roslaunch iri_wam_gazebo main.launch
 roslaunch unit_5_services my_robot_arm_demo.launch
 --------------------------------------------
