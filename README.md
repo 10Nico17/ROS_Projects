@@ -10,16 +10,23 @@ roslaunch bb_8_gazebo main.launch
 roslaunch unit_5_services start_bb8_move_in_circle_service_server.launch 
 roslaunch unit_5_services call_bb8_move_in_circle_service_server.launch 
 --------------------------------------------
-# Custom Server message:
+### Custom Server message:
 roslaunch bb_8_gazebo main.launch
 roslaunch unit_5_services start_bb8_move_custom_service_server.launch
 roslaunch unit_5_services call_bb8_move_custom_service_server.launch
 --------------------------------------------
-# Create a python class
+### Create a python class
 roslaunch bb_8_gazebo main.launch
 rosrun unit_5_services bb8_move_circle_class.py
 --------------------------------------------
-# Use Python class in Server and Client
+### Use Python class in Server and Client
 roslaunch unit_5_services bb8_move_circle_service_server.launch 
 rosservice call /move_bb8_in_circle "duration: 5"
 --------------------------------------------
+
+
+# Gazebo simulation:
+![BB8](Basics_Topics_Server_Actions_Gazebo_Simulation/unit_5_services/bb8.png)
+
+
+![iri_warm](Basics_Topics_Server_Actions_Gazebo_Simulation/unit_5_services/iri_wam.png)
