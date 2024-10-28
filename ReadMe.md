@@ -43,3 +43,16 @@ https://bitbucket.org/theconstructcore/spawn_robot_tools/src/master/
 ![drone](Basics_Topics_Server_Actions_Gazebo_Simulation/drone.png)
 ![shadow_robot](Basics_Topics_Server_Actions_Gazebo_Simulation/shadow_robot_smart_grasping_sandbox.png)
 
+
+# Tiago docker:
+http://wiki.ros.org/Robots/TIAGo/Tutorials/Installation/Installing_Tiago_tutorial_docker
+rocker --home --user --x11 --privileged palroboticssl/tiago_tutorials:noetic --devices /dev/dri/card0
+sudo -i
+
+
+![tiago_office_world](Basics_Topics_Server_Actions_Gazebo_Simulation/tiago_office_world.png)
+![tiago_slam](Basics_Topics_Server_Actions_Gazebo_Simulation/tiago_slam.png)
+![tiago_ocu](Basics_Topics_Server_Actions_Gazebo_Simulation/tiago_ocu.png)
+![tiago_pick_and_place](Basics_Topics_Server_Actions_Gazebo_Simulation/tiago_pick_and_place.png)
+
+
